@@ -1,16 +1,21 @@
-## Hi there 👋
+I'm a **third-year Cybersecurity student**, passionate about exploring new technologies, strengthening my security skills, and learning how systems can be protected (and attacked) in the real world.
 
-<!--
-**Kimsourmana/Kimsourmana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🔭 Current Projects & Experience
+- Developed a **Python automation script** to scan open ports on my virtual machines to identify potential exposed services
+- Building hands-on experience through personal home lab setups and security experimentation
+- Actively working on small-scale cybersecurity tools and scripts
 
-Here are some ideas to get you started:
+### 🌱 Currently Learning
+- Advanced penetration testing and ethical hacking
+- Network security and secure system configuration
+- Python and Bash scripting for security automation
+- Cloud security fundamentals
+- Malware analysis basics
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👯 Looking to Collaborate On
+- Beginner to intermediate cybersecurity projects
+- CTF (Capture The Flag) challenges
+- Security scripting and automation tools
+- Open-source security awareness projects
+
+
